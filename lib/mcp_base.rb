@@ -1,4 +1,4 @@
-require "mcp_base/engine"
+require "mcp/base/engine"
 
 module MCP
   module Base
