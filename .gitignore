@@ -50,4 +50,4 @@ config/secrets.yml
 # Personal additions
 config/database.yml
 **database.yml
-
+test/dummy/**/*
